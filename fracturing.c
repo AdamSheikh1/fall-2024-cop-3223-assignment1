@@ -20,7 +20,7 @@ int main(int argc, char **argv) {
     calculatePerimeter();
     calculateArea();
     calculateWidth();
-    calculateHeight()
+    calculateHeight();
 
     return 0;
 }
