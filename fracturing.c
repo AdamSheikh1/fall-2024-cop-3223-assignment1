@@ -8,11 +8,11 @@
 #define PI 3.14159
 
 // Declaring functions
-double calculateDistance()
-double calculatePerimeter()
-double calculateArea()
-double calculateWidth()
-double calculateHeight()
+double calculateDistance();
+double calculatePerimeter();
+double calculateArea();
+double calculateWidth();
+double calculateHeight();
 
 int main(int argc, char **argv) {
     // Calling each function
